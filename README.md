@@ -10,6 +10,10 @@ Successfully completed and received a passing grade in
 SQL and Relational Databases 101 in Cognitive classes
 https://courses.cognitiveclass.ai/certificates/c24d8e9af160468fa381370727e47e39
 
+OCI foundation Associate:
+https://catalog-education.oracle.com/ords/certview/sharebadge?id=F42486B028165D558C1CFC0C4377D1D87219E59BF5311F2938819F3BE5A416C1&fbclid=IwZXh0bgNhZW0CMTEAAR0HyS2ol7Ew_j7r27OnASzpyLH6xgmud_gEB4fDjxCzbshGgXGJa94uRRY_aem_0IDXfrOPfqvraXutMEKYyw
+
+
 Skillset:
 SQL and Relational Databases 101
 and Java programming
