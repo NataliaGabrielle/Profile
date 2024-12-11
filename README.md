@@ -1,10 +1,14 @@
 # Profile
 ## Name: Natalia Gabrielle Ortiz
+
 ---
+
 Education:
 Student in New Era University
 Bachelor of Science in Computer Science
+
 ---
+
 # Cerifications:
 SQL and Relational Databases 101 in Cognitive classes
 https://courses.cognitiveclass.ai/certificates/c24d8e9af160468fa381370727e47e39
@@ -17,6 +21,7 @@ https://catalog-education.oracle.com/ords/certview/sharebadge?id=F42486B028165D5
 
 OCI 2024 OCI AI Foundations Associate (2024):
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=E47A14EC603A7AD22FB87FCD6BD0D902134F596FBCBBF6539DEAD9866275D2C3&fbclid=IwZXh0bgNhZW0CMTEAAR2Y1n9ZoRbSjIjSIST8kdJurdXnyAxTEigAOI1twI-lbED1uSaio9p5iqQ_aem_ATeJgNqoA_R9E8rxJF9tLQ
+
 ---
 
 Skillset:
